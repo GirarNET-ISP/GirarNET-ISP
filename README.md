@@ -40,14 +40,14 @@ Convertirnos en empresa líder en la prestación de servicios de internet de alt
 </p>
 
 
-- Juan David Navarro Restrepo - CEO (Chief Executive Officer); Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
+- Juan Navarro - CEO (Chief Executive Officer); Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
 
-- Christian Camilo Gaviria Castro - COO (Chief Operating Officer); Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
+- Christian Gaviria - COO (Chief Operating Officer); Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
   Ingeniero certificado en MTCNA, MTCTCE, MTCSE. AWS Certified Cloud Practicioner.
 
-- Jhon Arley Perea Agualimpia - Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
+- Jhon Arley Perea - Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
 
-- Diego Alejandro Cordoba Dominguez - Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
+- Diego Alejandro Cordoba - Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
 
 <p align="center">
   <h3>Contactos</h3>
