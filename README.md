@@ -8,7 +8,7 @@ En GirarNET S.A.S, además de trabajar en pro de la evolución digital creando i
 
 <p align="center">
    <h1> **Misión**</h1>
- </p>
+</p>
 
 **MISIÓN**
 Conectar a las familias y empresas a través de internet de alta velocidad por medio de sistemas guiados y no guiados; aportando a la reducción de la brecha digital e incentivando el uso de las nuevas tecnologías.
