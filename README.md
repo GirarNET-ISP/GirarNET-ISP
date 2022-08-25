@@ -7,7 +7,7 @@
 En GirarNET S.A.S, además de trabajar en pro de la evolución digital creando infraestructuras de redes GPON sólidas, capaces de soportar grandes capacidades de tráfico, lo cual es supremamente importante para La Revolución 4.0 que vivimos actualmente; también estamos comprometidos con el avance social a través de capacitaciones y conferencias abiertas al público con el fin de disminuir la brecha digital y aportar a la educación, ya que es el pilar fundamental para el desarrollo sostenible.
 
 <p align="center">
-   <h1> **Misión**</h1>
+  <h1>Misión</h1>
 </p>
 
 **MISIÓN**
