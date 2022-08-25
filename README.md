@@ -10,13 +10,19 @@ En GirarNET S.A.S, además de trabajar en pro de la evolución digital creando i
   <h1>Misión</h1>
 </p>
 
-**MISIÓN**
+
 Conectar a las familias y empresas a través de internet de alta velocidad por medio de sistemas guiados y no guiados; aportando a la reducción de la brecha digital e incentivando el uso de las nuevas tecnologías.
 
-**VISIÓN**
+<p align="center">
+  <h1>Visión</h1>
+</p>
+
 Convertirnos en empresa líder en la prestación de servicios de internet de alta velocidad a nivel local y regional, promoviendo el desarrollo sostenible y contribuyendo a la evolución de la sociedad.
 
-**NUESTROS VALORES**
+<p align="center">
+  <h2>Nuestros Valores</h2>
+</p>
+
 - **Honestidad:** Somos transparentes y justos con nuestros clientes.
 
 - **Credibilidad:** Cumplimos con los servicios ofrecidos y contribuimos a crear valor a nuestros clientes.
@@ -29,12 +35,24 @@ Convertirnos en empresa líder en la prestación de servicios de internet de alt
 
 - **Compromiso Social:** en GirarNET S.A.S aportamos al aprendizaje y/o transferencia de conocimiento; ya que creemos en la educación como un pilar para el desarrollo sostenible de la sociedad.
 
-**Nuestro equipo**
-Juan David Navarro Restrepo - CEO (Chief Executive Officer); Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
+<p align="center">
+  <h2>Ingenieros</h2>
+</p>
 
-Christian Camilo Gaviria Castro - COO (Chief Operating Officer); Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin. Ingeniero certificado en MTCNA, MTCTCE, MTCSE. AWS Certified Cloud Practicioner.
 
-**Contactos**
+- Juan David Navarro Restrepo - CEO (Chief Executive Officer); Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
+
+- Christian Camilo Gaviria Castro - COO (Chief Operating Officer); Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
+  Ingeniero certificado en MTCNA, MTCTCE, MTCSE. AWS Certified Cloud Practicioner.
+
+- Jhon Arley Perea Agualimpia - COO (Chief Operating Officer); Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
+
+- Diego Alejandro Cordoba Dominguez - CSO (Chief Security Officer); Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
+
+<p align="center">
+  <h3>Contactos</h3>
+</p>
+
 📫
 
 **Correo electrónico:** Operaciones@girarnet.com.co
@@ -44,9 +62,7 @@ Christian Camilo Gaviria Castro - COO (Chief Operating Officer); Ingeniero de Te
 
 <!--
 
-Jhon Arley Perea Agualimpia - COO (Chief Operating Officer); Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
 
-Diego Alejandro Cordoba Dominguez - CSO (Chief Security Officer); Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
 
 Lineas Alternas: +57 300 343 7758, +57 301 721 3895, +57 300 662 0814
 
