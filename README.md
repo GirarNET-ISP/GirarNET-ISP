@@ -36,7 +36,7 @@ Convertirnos en empresa líder en la prestación de servicios de internet de alt
 - **Compromiso Social:** en GirarNET S.A.S aportamos al aprendizaje y/o transferencia de conocimiento; ya que creemos en la educación como un pilar para el desarrollo sostenible de la sociedad.
 
 <p align="center">
-  <h2>Ingenieros</h2>
+  <h2>Nuestro Equipo</h2>
 </p>
 
 
@@ -45,9 +45,9 @@ Convertirnos en empresa líder en la prestación de servicios de internet de alt
 - Christian Camilo Gaviria Castro - COO (Chief Operating Officer); Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
   Ingeniero certificado en MTCNA, MTCTCE, MTCSE. AWS Certified Cloud Practicioner.
 
-- Jhon Arley Perea Agualimpia - COO (Chief Operating Officer); Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
+- Jhon Arley Perea Agualimpia - Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
 
-- Diego Alejandro Cordoba Dominguez - CSO (Chief Security Officer); Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
+- Diego Alejandro Cordoba Dominguez - Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
 
 <p align="center">
   <h3>Contactos</h3>
