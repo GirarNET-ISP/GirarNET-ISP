@@ -56,6 +56,7 @@ Convertirnos en empresa líder en la prestación de servicios de internet de alt
 📫
 
 **Correo electrónico:** Operaciones@girarnet.com.co
+
 **WhatsApp:** +57 315 225 0620
 
 
