@@ -25,7 +25,7 @@ Convertirnos en empresa líder en la prestación de servicios de internet de alt
 
 - **Honestidad:** Somos transparentes y justos con nuestros clientes.
 
-- **Credibilidad:** Cumplimos con los servicios ofrecidos y contribuimos a crear valor a nuestros clientes.
+- **Credibilidad:** cumplimos con los servicios ofrecidos y contribuimos a crear valor a nuestros clientes.
 
 - **Cercanía:** trabajamos de la mano de nuestros clientes para brindarles un mejor servicio.
 
