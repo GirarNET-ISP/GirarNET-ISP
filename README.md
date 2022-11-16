@@ -42,12 +42,16 @@ Convertirnos en empresa líder en la prestación de servicios de internet de alt
 
 - Juan Navarro - CEO (Chief Executive Officer); Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
 
-- Christian Gaviria - COO (Chief Operating Officer); Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
+- Christian Gaviria - CIO (Chief Information Officer); Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
   Ingeniero certificado en MTCNA. AWS Certified Cloud Practicioner.
 
 - Jhon Arley Perea - Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
 
 - Diego Alejandro Cordoba - Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
+
+- Juan Esteban Usuga - Magister en Ciencias en el Programa de Sensores y Actuadores espaciales Instituto Tecnológico de Aeronáutica - ITA e Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
+
+- Juan Alzate Cardona - Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
 
 <p align="center">
   <h3>Contactos</h3>
