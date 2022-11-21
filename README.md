@@ -11,13 +11,13 @@ En GirarNET S.A.S, además de trabajar en pro de la evolución digital creando i
 </p>
 
 
-Conectar a las familias y empresas a través de internet de alta velocidad por medio de sistemas guiados y no guiados; aportando a la reducción de la brecha digital e incentivando el uso de las nuevas tecnologías.
+Nuestra razón de ser es brindar a los Girardotanos un servicio de internet íntegro y eficaz, incentivando el uso de las nuevas tecnologías en esta era incial de la revoución digital y avances tecnológicos.
 
 <p align="center">
   <h1>Visión</h1>
 </p>
 
-Convertirnos en empresa líder en la prestación de servicios de internet de alta velocidad a nivel local y regional, promoviendo el desarrollo sostenible y contribuyendo a la evolución de la sociedad.
+En 2030 GirarNET será la compañía de Telecomunicaciones líder en la prestación de servicios de internet de alta velocidad y de mayor estabilidad a nivel local y regional, precursores en la construcción de una Girardota sostenible; comprometidos con el avance continuo/progresivo de una sociedad Tecnológica,Innovadora y Transformadora.
 
 <p align="center">
   <h2>Nuestros Valores</h2>
