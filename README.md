@@ -11,7 +11,7 @@ En GirarNET S.A.S, además de trabajar en pro de la evolución digital creando i
 </p>
 
 
-Nuestra razón de ser es brindar a los Girardotanos un servicio de internet íntegro y eficaz, incentivando el uso de las nuevas tecnologías en esta era incial de la revoución digital y avances tecnológicos.
+Nuestra razón de ser es brindar a los Girardotanos un servicio de internet íntegro y eficaz, incentivando el uso de las nuevas tecnologías en esta era inicial de la revolución digital y avances tecnológicos.
 
 <p align="center">
   <h1>Visión</h1>
