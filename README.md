@@ -2,6 +2,9 @@
     <img src="https://drive.google.com/uc?export=view&id=1IOfE1dKrdg5ScKsoBxPqvmS-VMbQaKjb" alt="drawing" width="500"/>
   </p>
   
+💬 Escríbenos...
+[WhatsApp](chatwith.io/es/s/girarnet)
+
 Somos una empresa que brinda Servicios y Soluciones en el sector de las Tecnologías de la Información y las Comunicaciones -TIC. Está compuesta por un equipo altamente calificado; egresados de la Institución Universitaria ITM de Medellin. GirarNET S.A.S actualmente está enfocada en la Prestación de Servicios de Internet de Alta Velocidad por medio de fibra óptica hasta el usuario, usando el estándar GPON; con el cual se alcanzan velocidades de navegación superiores al internet cableado convencional.
 
 En GirarNET S.A.S, además de trabajar en pro de la evolución digital creando infraestructuras de redes GPON sólidas, capaces de soportar grandes capacidades de tráfico, lo cual es supremamente importante para la Revolución 4.0 que vivimos actualmente; también estamos comprometidos con el avance social por medio del arte, la educación; a través de eventos culturales, capacitaciones y conferencias abiertas al público con el fin de aportar en la disminución de la brecha digital, ya que consideramos estos unos pilares fundamentales para el desarrollo sostenible.
