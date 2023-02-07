@@ -50,11 +50,8 @@ En 2030 GirarNET será la compañía de Telecomunicaciones líder en la prestaci
 
 - Jhon Arley Perea - Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
 
-- Diego Alejandro Cordoba - Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
-
 - Juan Esteban Usuga - Magister en Ciencias en el Programa de Sensores y Actuadores espaciales Instituto Tecnológico de Aeronáutica - ITA e Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
 
-- Juan Alzate Cardona - Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
 
 <p align="center">
   <h3>Contactos</h3>
@@ -72,7 +69,7 @@ En 2030 GirarNET será la compañía de Telecomunicaciones líder en la prestaci
 
 
 
-Lineas Alternas: +57 300 343 7758, +57 301 721 3895, +57 300 662 0814
+L
 
 ![](https://drive.google.com/uc?export=view&id=11BcTpAMOVFu0N85jjfQhg475TBzJ14Rn)
 https://drive.google.com/file/d/1IOfE1dKrdg5ScKsoBxPqvmS-VMbQaKjb/view?usp=sharing
