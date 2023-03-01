@@ -43,16 +43,21 @@ En 2030 GirarNET será la compañía de Telecomunicaciones líder en la prestaci
 </p>
 
 
-- Juan Navarro - CEO (Chief Executive Officer); Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
+- Juan Navarro - CEO (Chief Executive Officer)
+  Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
+  
+  - Juan Esteban Usuga - CIO (Chief Information Officer)
+    Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
+    Magister en Ciencias en el Programa de Sensores y Actuadores espaciales Instituto Tecnológico de Aeronáutica - ITA
 
-- Christian Gaviria - CIO (Chief Information Officer); Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
-  Ingeniero certificado en MTCNA. AWS Certified Cloud Practicioner.
+- Christian Gaviria
+  Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
+  Certificado en MTCNA. AWS Certified Cloud Practicioner.
 
-- Jhon Arley Perea - Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
+- Jhon Arley Perea
+  Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
 
-- Juan Esteban Usuga - Magister en Ciencias en el Programa de Sensores y Actuadores espaciales Instituto Tecnológico de Aeronáutica - ITA e Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
-
-
+ 
 <p align="center">
   <h3>Contactos</h3>
 </p>
