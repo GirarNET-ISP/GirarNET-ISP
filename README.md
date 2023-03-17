@@ -2,8 +2,7 @@
     <img src="https://drive.google.com/uc?export=view&id=1IOfE1dKrdg5ScKsoBxPqvmS-VMbQaKjb" alt="drawing" width="500"/>
   </p>
   
-💬 Escríbenos al
-[WhatsApp](https://wa.me/573152250620), [Instagram](https://www.instagram.com/girarnet/), [LinkTree](https://linktr.ee/girarnet)
+[LinkTree](https://linktr.ee/girarnet)
 
 Somos una empresa que brinda Servicios y Soluciones en el sector de las Tecnologías de la Información y las Comunicaciones -TIC. Está compuesta por un equipo altamente calificado; egresados de la Institución Universitaria ITM de Medellin. GirarNET S.A.S actualmente está enfocada en la Prestación de Servicios de Internet de Alta Velocidad por medio de fibra óptica hasta el usuario, usando el estándar GPON; con el cual se alcanzan velocidades de navegación superiores al internet cableado convencional.
 
@@ -62,25 +61,15 @@ En 2030 GirarNET será la compañía de Telecomunicaciones líder en la prestaci
   <h3>Contactos</h3>
 </p>
 
-📫
 
-**Correo electrónico:** Operaciones@girarnet.com.co
+💬 Escríbenos...
 
-**WhatsApp:** +57 315 225 0620
+* :mailbox: **Correo electrónico:** Operaciones@girarnet.com.co
+* :telephone_receiver: **WhatsApp** [+57 315 225 0620](https://wa.me/573152250620)
 
 
 
 <!--
-
-
-
-L
-
-![](https://drive.google.com/uc?export=view&id=11BcTpAMOVFu0N85jjfQhg475TBzJ14Rn)
-https://drive.google.com/file/d/1IOfE1dKrdg5ScKsoBxPqvmS-VMbQaKjb/view?usp=sharing
-
-**GirarNET-SAS/GirarnET-SAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# ![](https://drive.google.com/uc?export=view&id=your_id)
 
 Here are some ideas to get you started:
 
@@ -92,4 +81,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
