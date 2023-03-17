@@ -21,9 +21,7 @@ Nuestra razón de ser es brindar a los Girardotanos un servicio de internet ínt
 
 En 2030 GirarNET será la compañía de Telecomunicaciones líder en la prestación de servicios de internet de alta velocidad y de mayor estabilidad a nivel local y regional, precursores en la construcción de una Girardota sostenible; comprometidos con el avance continuo/progresivo de una sociedad Tecnológica,Innovadora y Transformadora.
 
-<p align="center">
-  <h2>Nuestros Valores</h2>
-</p>
+<h2 align="left">Nuestros Valores</h2>
 
 - **Honestidad:** Somos transparentes y justos con nuestros clientes.
 
@@ -37,10 +35,7 @@ En 2030 GirarNET será la compañía de Telecomunicaciones líder en la prestaci
 
 - **Compromiso Social:** en GirarNET S.A.S aportamos al aprendizaje y/o transferencia de conocimiento; ya que creemos en la educación como un pilar para el desarrollo sostenible de la sociedad.
 
-<p align="center">
-  <h2>Nuestro Equipo</h2>
-</p>
-
+<h2 align="left">Nuestro Equipo</h2>
 
 - **Juan Navarro - CEO (Chief Executive Officer)**\
   **Ingeniero de Telecomunicaciones** de la Institución Universitaria ITM de Medellin.
