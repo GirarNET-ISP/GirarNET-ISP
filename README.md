@@ -8,16 +8,11 @@ Somos una empresa que brinda Servicios y Soluciones en el sector de las Tecnolog
 
 En GirarNET S.A.S, además de trabajar en pro de la evolución digital creando infraestructuras de redes GPON sólidas, capaces de soportar grandes capacidades de tráfico, lo cual es supremamente importante para la Revolución 4.0 que vivimos actualmente; también estamos comprometidos con el avance social por medio del arte, la educación; a través de eventos culturales, capacitaciones y conferencias abiertas al público con el fin de aportar en la disminución de la brecha digital, ya que consideramos estos unos pilares fundamentales para el desarrollo sostenible.
 
-<p align="center">
-  <h1>Misión</h1>
-</p>
-
+<h1 align="center">Misión</h1>
 
 Nuestra razón de ser es brindar a los Girardotanos un servicio de internet íntegro y eficaz, incentivando el uso de las nuevas tecnologías en esta era inicial de la revolución digital y avances tecnológicos.
 
-<p align="center">
-  <h1>Visión</h1>
-</p>
+<h1 align="center">Visión</h1>
 
 En 2030 GirarNET será la compañía de Telecomunicaciones líder en la prestación de servicios de internet de alta velocidad y de mayor estabilidad a nivel local y regional, precursores en la construcción de una Girardota sostenible; comprometidos con el avance continuo/progresivo de una sociedad Tecnológica,Innovadora y Transformadora.
 
@@ -54,7 +49,7 @@ En 2030 GirarNET será la compañía de Telecomunicaciones líder en la prestaci
  
 ---
 
-<h3 align="center">Contacto</h3>
+<h3 align="left">Contacto</h3>
 
 💬 Puedes comunicarte o saber más de nosotros por nuestras [Redes Sociales](https://linktr.ee/girarnet) o también puedes escribirnos a los siguientes medios:
 
@@ -62,7 +57,7 @@ En 2030 GirarNET será la compañía de Telecomunicaciones líder en la prestaci
 * :telephone_receiver: **WhatsApp** [+57 315 225 0620](https://wa.me/573152250620)
 
 ---
-<h3 align="center">Políticas</h3> 
+<h3 align="left">Políticas</h3> 
 
 <ul>
   <li><a href="https://github.com/girarnetsas/Terminos-y-Condiciones/blob/main/README.md"> :bookmark_tabs: Términos y Condiciones del Servicio</a></li>
