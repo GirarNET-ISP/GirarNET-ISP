@@ -62,6 +62,8 @@ En 2030 GirarNET será la compañía de Telecomunicaciones líder en la prestaci
 </p>
 
 
+
+---
 💬 Escríbenos...
 
 * :mailbox: **Correo electrónico:** Operaciones@girarnet.com.co
