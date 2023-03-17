@@ -57,14 +57,11 @@ En 2030 GirarNET será la compañía de Telecomunicaciones líder en la prestaci
   **Ingeniero de Telecomunicaciones** de la Institución Universitaria ITM de Medellin.
 
  
-<p align="center">
-  <h3>Contactos</h3>
-</p>
-
-
-
 ---
-💬 Escríbenos...
+
+<h3 align="center">Contacto</h3>
+
+💬 Puedes comunicarte con nosotros por los siguientes medios:
 
 * :mailbox: **Correo electrónico:** Operaciones@girarnet.com.co
 * :telephone_receiver: **WhatsApp** [+57 315 225 0620](https://wa.me/573152250620)
