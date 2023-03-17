@@ -66,7 +66,16 @@ En 2030 GirarNET será la compañía de Telecomunicaciones líder en la prestaci
 * :mailbox: **Correo electrónico:** Operaciones@girarnet.com.co
 * :telephone_receiver: **WhatsApp** [+57 315 225 0620](https://wa.me/573152250620)
 
+---
+<h3 align="center">Políticas</h3> 
 
+<ul>
+  <li><a href="https://github.com/girarnetsas/Terminos-y-Condiciones/blob/main/README.md">Términos y Condicones del Servicio</a></li>
+  <li><a href="https://github.com/girarnetsas/Dignidad-infantil/blob/main/README.md">Dignidad infantil</a></li>
+  <li><a href="https://github.com/girarnetsas/Tratamiento-de-Datos/blob/main/README.md">Política de Tratamiento de Datos</a></li>
+  <li><a href="https://github.com/girarnetsas/Autorizacion-Tratamiento-Datos-Personales/blob/main/README.md">Autorización Tratamiento de Datos Vía WhatsApp</a></li>
+  <li><a href="https://github.com/girarnetsas/Aviso-de-Privacidad-y-Proteccion/blob/main/README.md">Aviso de Privacidad y Protección</a></li>
+</ul>
 
 <!--
 
