@@ -63,7 +63,7 @@ En 2030 GirarNET será la compañía de Telecomunicaciones líder en la prestaci
   <li><a href="https://github.com/girarnetsas/Terminos-y-Condiciones/blob/main/README.md"> :bookmark_tabs: Términos y Condiciones del Servicio</a></li>
   <li><a href="https://github.com/girarnetsas/Dignidad-infantil/blob/main/README.md"> :children_crossing: Dignidad infantil</a></li>
   <li><a href="https://github.com/girarnetsas/Tratamiento-de-Datos/blob/main/README.md"> :rotating_light: Política de Tratamiento de Datos</a></li>
-  <li><a href="https://github.com/girarnetsas/Autorizacion-Tratamiento-Datos-Personales/blob/main/README.md"> :pencil: :page_with_curl: Autorización Tratamiento de Datos Vía WhatsApp</a></li>
+  <li><a href="https://github.com/girarnetsas/Autorizacion-Tratamiento-Datos-Personales/blob/main/README.md"> :pencil: Autorización Tratamiento de Datos Vía WhatsApp</a></li>
   <li><a href="https://github.com/girarnetsas/Aviso-de-Privacidad-y-Proteccion/blob/main/README.md"> :cop: :busts_in_silhouette:  Aviso de Privacidad y Protección</a></li>
 </ul>
 
