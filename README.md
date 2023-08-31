@@ -35,7 +35,7 @@ En 2030 GirarNET será la compañía de Telecomunicaciones líder en la prestaci
 - **Juan Navarro - CEO (Chief Executive Officer)**\
   **Ingeniero de Telecomunicaciones** - Institución Universitaria ITM de Medellin.\
   Perteneciente al **Grupo de Investigación en Física Teórica, Aplicada y Didáctica - GRITAD**\
-  **MSc(c) en Automatización y COntrol Industrial** - Institución Universitaria ITM de Medellin
+  **MSc(c) en Automatización y Control Industrial** - Institución Universitaria ITM de Medellin
   
 - **Juan Esteban Usuga - Ingeniero GPON**\
   **Ingeniero de Telecomunicaciones** - Institución Universitaria ITM de Medellin.\
