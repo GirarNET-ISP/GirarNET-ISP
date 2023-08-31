@@ -33,19 +33,23 @@ En 2030 GirarNET será la compañía de Telecomunicaciones líder en la prestaci
 <h2 align="left">Nuestro Equipo</h2>
 
 - **Juan Navarro - CEO (Chief Executive Officer)**\
-  **Ingeniero de Telecomunicaciones** de la Institución Universitaria ITM de Medellin.\
+  **Ingeniero de Telecomunicaciones** - Institución Universitaria ITM de Medellin.\
   Perteneciente al **Grupo de Investigación en Física Teórica, Aplicada y Didáctica - GRITAD** del **ITM**
+  **MSc(c) en Automatización y COntrol Industrial** - Institución Universitaria ITM de Medellin
   
-- **Juan Esteban Usuga - CIO (Chief Information Officer)**\
-  **Ingeniero de Telecomunicaciones** de la Institución Universitaria ITM de Medellin.\
+- **Juan Esteban Usuga - Ingeniero GPON**\
+  **Ingeniero de Telecomunicaciones** - Institución Universitaria ITM de Medellin.\
   **Magister en Ciencias** en el Programa de Sensores y Actuadores espaciales Instituto Tecnológico de Aeronáutica - ITA
 
-- **Christian Gaviria**\
-  **Ingeniero de Telecomunicaciones** de la Institución Universitaria ITM de Medellin.\
+- **Christian Gaviria - CIO (Chief Information Officer)**\
+  **Ingeniero de Telecomunicaciones** - Institución Universitaria ITM de Medellin.\
   Certificado en MTCNA. AWS Certified Cloud Practicioner.
 
-- **Jhon Arley Perea**\
-  **Ingeniero de Telecomunicaciones** de la Institución Universitaria ITM de Medellin.
+- **Jhon Arley Perea - Ingeniero GPON**\
+  **Ingeniero de Telecomunicaciones** - Institución Universitaria ITM de Medellin.
+
+- **Diego Alejandro Cordoba - Ingeniero GPON**\
+  **Ingeniero de Telecomunicaciones** - Institución Universitaria ITM de Medellin.
 
  
 ---
@@ -56,6 +60,7 @@ En 2030 GirarNET será la compañía de Telecomunicaciones líder en la prestaci
 
 * :mailbox: **Correo electrónico:** Operaciones@girarnet.com.co
 * :telephone_receiver: **WhatsApp** [+57 315 225 0620](https://wa.me/573152250620)
+* :telephone_receiver: **Telegram** [@GirarNET](https://t.me/GirarNET)
 
 ---
 <h3 align="left">Políticas</h3> 
