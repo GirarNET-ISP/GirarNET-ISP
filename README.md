@@ -36,21 +36,22 @@ En 2030 GirarNET será la compañía de Telecomunicaciones líder en la prestaci
   **Ingeniero de Telecomunicaciones** - Institución Universitaria ITM de Medellin.\
   Perteneciente al **Grupo de Investigación en Física Teórica, Aplicada y Didáctica - GRITAD**\
   **MSc(c) en Automatización y Control Industrial** - Institución Universitaria ITM de Medellin
-  
-- **Juan Esteban Usuga - Ingeniero GPON**\
-  **Ingeniero de Telecomunicaciones** - Institución Universitaria ITM de Medellin.\
-  **MSc en Sensores y Actuadores Espaciales** - Instituto Tecnológico de Aeronáutica - ITA
 
 - **Christian Gaviria - CIO (Chief Information Officer)**\
   **Ingeniero de Telecomunicaciones** - Institución Universitaria ITM de Medellin.\
   Certificado en MTCNA. AWS Certified Cloud Practicioner.
-
+<!--
+- **Juan Esteban Usuga - Ingeniero GPON**\
+  **Ingeniero de Telecomunicaciones** - Institución Universitaria ITM de Medellin.\
+  **MSc en Sensores y Actuadores Espaciales** - Instituto Tecnológico de Aeronáutica - ITA
+  
 - **Jhon Arley Perea - Ingeniero GPON**\
   **Ingeniero de Telecomunicaciones** - Institución Universitaria ITM de Medellin.
 
 - **Diego Alejandro Cordoba - Ingeniero GPON**\
   **Ingeniero de Telecomunicaciones** - Institución Universitaria ITM de Medellin.
-
+  
+-->
  
 ---
 
